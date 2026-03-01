@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Good Time",
+  "base_artist": "Owl City and Carly Rae Jepsen",
+  "createdAt": "2026-03-01T11:46:59.984056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/01_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOOD TIME (Andrelli Remix)",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/02_GOOD_TIME_(Andrelli_Remix)_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Time",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_Good_Time_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here For A Good Time",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Here_For_A_Good_Time_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Here For A Good Time (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/05_Here_For_A_Good_Time_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Raised by a Good Time",
+      "artist": "Steven Lee Olsen",
+      "has_synced": false,
+      "path": "select/06_Raised_by_a_Good_Time_Steven_Lee_Olsen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Next Good Time",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/07_The_Next_Good_Time_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Show Me A Good Time",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_Show_Me_A_Good_Time_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Real Good Time Together",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/09_Real_Good_Time_Together_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Time",
+      "artist": "S-X",
+      "has_synced": true,
+      "path": "select/10_Good_Time_S-X.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anyone Can Have a Good Time",
+      "artist": "Owls",
+      "has_synced": false,
+      "path": "select/11_Anyone_Can_Have_a_Good_Time_Owls.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Time Girls",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/12_Good_Time_Girls_Travis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "See You In The Next One (Have A Good Time)",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/13_See_You_In_The_Next_One_(Have_A_Good_Time)_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HMU for a Good Time",
+      "artist": "Tinashe feat. Channel Tres",
+      "has_synced": true,
+      "path": "select/14_HMU_for_a_Good_Time_Tinashe_feat._Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HMU for a Good Time",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/15_HMU_for_a_Good_Time_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Have A Good Time",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/16_Have_A_Good_Time_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We’re Not Here for a Long Time (We’re Here for a Good Time)",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/17_We’re_Not_Here_for_a_Long_Time_(We’re_Here_for_a_Good_Time)_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Time",
+      "artist": "Owl City & Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Time_Owl_City_&_Carly_Rae_Jepsen.txt"
+    }
+  ]
+}
